@@ -1,0 +1,22 @@
+
+# Compiled object files
+*.o
+
+# GCOV coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# Compiled executables
+uber_dispatch
+uber_tests
+uber_tests_coverage
+
+# Runtime logs
+ride_log.txt
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.tmp
