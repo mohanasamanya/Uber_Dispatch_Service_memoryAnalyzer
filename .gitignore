@@ -1,0 +1,16 @@
+# Compiled files
+*.o
+uber_dispatch
+uber_tests
+uber_tests_coverage
+
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# Runtime logs
+ride_log.txt
+
+# Editor settings
+.vscode/
